@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SoundTurnedUp
+- 👀 I’m interested in Cybersecurity (OSINT + PENETRATION TESTING)
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on N/A
